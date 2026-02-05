@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8335052092:AAHB55RMP3Y-QdUiRfYIR_hht6PTXn5SpzI"
-ADMIN_ID = 1709255409
+ADMIN_ID =1709255409
 
 
 # ✅ Check if user already exists
