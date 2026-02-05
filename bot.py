@@ -138,7 +138,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()"
+    main()
 ADMIN_ID = 1709255409
 
 # ✅ Check if user already exists
