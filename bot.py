@@ -129,7 +129,7 @@ def main():
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("users", users))
-    app.
+    
     app.add_handler(MessageHandler(filters.TEXT, handle_message))
 
     print("BOT RUNNING 🚀")
